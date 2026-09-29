@@ -1,0 +1,54 @@
+---
+layout: default
+title: Labour Codes
+---
+
+### What India’s Labour Codes (2019–2020) Mean for the Worker.
+
+**Article 2026**
+
+In the summer of 2020, as millions of migrant workers walked home along highways emptied by the lockdown, Parliament was finishing the biggest rewrite of labour law since Independence. The timing was hard to ignore. The four Labour Codes on Wages (2019), and on Industrial Relations, Social Security, and Occupational Safety, Health and Working Conditions (2020) merge twenty-nine central laws into four, and were finally brought into force on 21 November 2025, with central and state rules still being notified through 2026 (Ministry of Labour and Employment, 2025). They promise a simpler and more universal set of rights. The critical question is whether a reform designed largely around the registered factory can reach the workers on that highway: the self-recruited mason from Araria on a Surat construction site, the beautician sent out by an app, the young woman on a fixed-term contract in a Tiruppur garment unit.
+
+The Codes deserve a fair hearing. They act on the Second National Commission on Labour’s (2002) recommendation to consolidate a tangle of overlapping laws carrying a dozen odd competing definitions of “wages” into one coherent frame. The Code on Wages extends minimum-wage and timely-payment rights to every employee, ending the old confinement to “scheduled” employments, and its uniform wage definition, which caps excludable allowances at half of total remuneration, closes a loophole long used to suppress provident fund and gratuity liabilities. The Code on Social Security gives gig, platform and unorganised workers their first statutory recognition. The OSH Code widens “inter-state migrant worker” to include the self-recruited precisely the circular migrants the 1979 Act never found (Srivastava, 2020) and mandates appointment letters, annual health check-ups and a yearly journey allowance. Fixed-term workers gain benefit parity and pro-rata gratuity; women gain the right to night work with consent and safeguards. On paper, this is universalisation.
+
+Yet the architecture rests on thresholds, and thresholds are where inclusion quietly ends. The Industrial Relations Code raises the bar for prior government permission before retrenchment or closure from 100 to 300 workers, with power to lift it further by notification; standing orders now bind only establishments above 300; the OSH Code doubles the factory-size thresholds and raises the contract-labour trigger from 20 to 50 workers. In an economy where over 98 per cent of non-farm establishments employ fewer than ten people and roughly ninety per cent of workers are informally employed (PLFS, 2024), each raised threshold pushes more workers outside the law’s cover. The unprotected majority that the NCEUS (2007) documented two decades ago remains the norm, not the exception. Nor is the economics behind these moves as settled as the rhetoric implies: threshold-based regimes do distort firm-size choices (Amirapu and Gechter, 2020), but the “missing middle” they are meant to cure is itself hard to find in the data (Hsieh and Olken, 2014).
+
+The employment case for flexibilisation is thinner still. Besley and Burgess’s (2004) influential finding that pro-worker regulation depressed Indian manufacturing has been seriously qualified on measurement grounds (Bhattacharjea, 2006), and the natural experiments run by states after 2014 Rajasthan’s threshold amendments foremost produced no visible break in registered-manufacturing job creation (Sundar, 2019). What rigidity demonstrably produced was evasion: the contract-labour share of organised manufacturing employment roughly doubled between 2000 and 2015 (Kapoor and Krishnapriya, 2019). The Codes’ answer, statutory fixed-term employment, honestly legalises this reality and attaches benefits to it; but with no limit on successive renewals, it risks converting the permanent workforce into a rotating one rather than converting casual workers into secure ones. Flexibility may relax one margin of firm growth. It is not an employment strategy; demand, credit, infrastructure and skills bind far harder.
+
+The deeper worry concerns voice and security the two things a worker cannot purchase alone. The IR Code extends the fourteen-day strike notice once reserved for public utilities to every industrial establishment and counts concerted casual leave as a strike, narrowing lawful collective action in a country that has never ratified ILO Conventions 87 and 98 on freedom of association and collective bargaining. The Social Security Code, meanwhile, is written in enabling language: government “may” frame schemes for gig and platform workers, financed by an aggregator contribution of one to two per cent of turnover, capped at five per cent of payments to workers. Nothing is self-executing; the rights exist only if governments choose to act on them. The national floor wage has sat at Rs 178 a day since 2019 less than half the Rs 375 recommended by the government’s own expert committee (Satpathy Committee, 2019) while roughly a third of wage workers were already paid below the legal minimum before the Codes (ILO, 2018). Delivery capacity is not the constraint: e-Shram enrolled over thirty crore unorganised workers within four years, and the 2025 Union Budget extended Ayushman Bharat cover to registered gig workers. But registration is an address, not an entitlement. With NITI Aayog (2022) projecting 2.35 crore gig workers by 2029–30, and Rajasthan (2023) and Karnataka (2025) legislating ahead of the Centre, India risks a patchwork in which a delivery rider’s accident cover depends on where the algorithm sends her.
+
+Implementation will now decide the argument. Labour is a concurrent subject; the Codes took effect with most state rules unfinished, and by mid-2026 a majority of states had notified rules for at least one Code while others were still drafting, so the effective law a worker faces varies by border. The shift to “inspector-cum-facilitators”, randomised web-based inspections and compoundable offences may reduce the harassment of honest firms or hollow out deterrence in a system where under-enforcement, not over-regulation, has been most workers’ daily experience. Which of these happens is an empirical question, and an urgent one. The research agenda is straightforward: tracking the transitions of fixed-term and contract workers in successive PLFS rounds; auditing whether wages, bonuses and final dues actually arrive within the new timelines; linking e-Shram registration to realised benefits; and testing whether night-shift provisions raise women’s employment or merely their commuting risk.
+
+Any assessment has to end with the workers the law is meant to reach. The 2020 exodus exposed workers who held rights on paper and nothing in hand: nearly nine in ten stranded workers surveyed in the first weeks of lockdown had not been paid for work already done (SWAN, 2020). The Codes are best read as an unfinished bridge between paper rights and lived ones genuinely simpler, genuinely wider in aspiration, yet with their most universal promises left discretionary and their firmest protections reserved for a shrinking island of large formal establishments. Whether the mason from Araria ever crosses that bridge will depend less on the neatness of consolidation than on floor wages that are honest, schemes that are funded, inspections that happen, and unions that can still speak. That, and not the count of statutes repealed, is the standard by which the Labour Codes should be judged.
+
+### References
+
+1. Amirapu, A. and M. Gechter (2020). “Labor Regulations and the Cost of Corruption: Evidence from the Indian Firm Size Distribution.” *Review of Economics and Statistics*, 102(1): 34–48.
+
+2. Besley, T. and R. Burgess (2004). “Can Labor Regulation Hinder Economic Performance? Evidence from India.” *Quarterly Journal of Economics*, 119(1): 91–134.
+
+3. Bhattacharjea, A. (2006). “Labour Market Regulation and Industrial Performance in India: A Critical Review of the Empirical Evidence.” *Indian Journal of Labour Economics*, 49(2): 211–232 (also CDE Working Paper 141, Delhi School of Economics).
+
+4. Hsieh, C.-T. and B. A. Olken (2014). “The Missing ‘Missing Middle’.” *Journal of Economic Perspectives*, 28(3): 89–108.
+
+5. International Labour Organization (2018). *India Wage Report: Wage Policies for Decent Work and Inclusive Growth*. New Delhi: ILO.
+
+6. Kapoor, R. and P. P. Krishnapriya (2019). “Explaining the Contractualisation of India’s Workforce.” ICRIER Working Paper 369.
+
+7. Ministry of Labour and Employment (2019). *Report of the Expert Committee on Determining the Methodology for Fixing the National Minimum Wage* (Satpathy Committee). Government of India.
+
+8. Ministry of Labour and Employment (2025). “Government Makes the Four Labour Codes Effective to Simplify and Streamline Labour Laws.” Press Information Bureau, 21 November 2025. Government of India.
+
+9. National Commission for Enterprises in the Unorganised Sector (2007). *Report on Conditions of Work and Promotion of Livelihoods in the Unorganised Sector*. Government of India.
+
+10. NITI Aayog (2022). *India’s Booming Gig and Platform Economy: Perspectives and Recommendations on the Future of Work*. Government of India.
+
+11. Periodic Labour Force Survey (2024). *Annual Report 2023–24*. Ministry of Statistics and Programme Implementation, Government of India.
+
+12. Second National Commission on Labour (2002). *Report of the National Commission on Labour*. Ministry of Labour, Government of India.
+
+13. Srivastava, R. (2020). “Understanding Circular Migration in India: Its Nature and Dimensions, the Crisis under Lockdown and the Response of the State.” IHD–CES Working Paper 04/2020. Institute for Human Development.
+
+14. Stranded Workers Action Network (2020). *21 Days and Counting: COVID-19 Lockdown, Migrant Workers, and the Inadequacy of Welfare Measures in India*.
+
+15. Sundar, K. R. Shyam (2019). *Contemporary Reforms of Labour Market and Industrial Relations System in India*. New Delhi: Academic Foundation.

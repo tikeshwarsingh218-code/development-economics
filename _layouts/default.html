@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{{ page.title }} | Tikeshwar Singh</title>
+
+  <link rel="stylesheet"
+        href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+  <header class="site-header">
+
+    <div class="site-name">
+      <a href="{{ '/' | relative_url }}">Tikeshwar Singh</a>
+      <div class="site-subtitle">Predoctoral Research Associate</div>
+    </div>
+
+    <nav class="navigation">
+      <a href="{{ '/' | relative_url }}">home</a>
+      <a href="{{ '/research/' | relative_url }}">research</a>
+      <a href="{{ '/resources/' | relative_url }}">resources</a>
+      <a href="{{ '/blog/' | relative_url }}">blog</a>
+      <a href="{{ '/nature/' | relative_url }}">nature</a>
+      <a href="{{ '/ra/' | relative_url }}">RA</a>
+      <a href="{{ '/cv/Singh_CV.pdf' | relative_url }}">cv</a>
+    </nav>
+
+  </header>
+
+  <main class="main-content{% if page.path contains 'blog/' %} blog-page{% endif %}{% if page.path contains 'ra/' %} ra-page{% endif %}">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© {{ 'now' | date: "%Y" }} Tikeshwar Singh</p>
+  </footer>
+
+</body>
+
+</html>
