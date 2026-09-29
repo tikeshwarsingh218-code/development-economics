@@ -1,7 +1,8 @@
 title: Tikeshwar Singh
 description: Economics Researcher
-url: ""
-baseurl: ""
+
+url: "https://tikeshwarsingh218-code.github.io"
+baseurl: "/development-economics"
 
 markdown: kramdown
 permalink: pretty
