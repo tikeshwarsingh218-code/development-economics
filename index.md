@@ -48,3 +48,4 @@ title: Home
 - [Uncontrolled tourism leads to the loss of intellectual property.](research/uncontrolled-tourism/) 2026
 - [What India’s Labour Codes (2019–2020) Mean for the Worker.](research/labour-codes/) 2026
 - [BREAD IGC virtual PhD level course on political economy](https://www.theigc.org/events/bread-igc-virtual-phd-courses/bread-igc-virtual-phd-level-course-political-economy-2026) 2026
+- [Research talk and workshop with Harini Nagendra at UCL STEaPP](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwrXGAGzNbhpGqdoMSpWvq1xUNlQ1TkhRRTFEOTBaVkNXRUEwWFNVSVVFWi4u) 2026
