@@ -31,7 +31,7 @@ title: Home
   </div>
 
   <div class="about-photo">
-    <img src="{{ '/assets/img/tikeshwar.png' | relative_url }}" alt="Tikeshwar Singh">
+    <img src="{{ '/nature/IMG-20220807-WA0008.jpg' | relative_url }}" alt="Tikeshwar Singh">
   </div>
 
 </section>
