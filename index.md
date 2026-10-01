@@ -41,12 +41,13 @@ title: Home
   <h3>Updates</h3>
 
   <div class="updates-list">
-    <p></p>
+
+    <p>[Uncontrolled tourism leads to the loss of intellectual property.](research/uncontrolled-tourism/) (2026) I am grateful to [Ankur Jamwal](https://ankurjamwal.github.io/) for his extensive help with this work.<br>
+    [What India’s Labour Codes (2019–2020) Mean for the Worker.](research/labour-codes/) (2026)<br>
+    [BREAD IGC virtual PhD level course on political economy](https://www.theigc.org/events/bread-igc-virtual-phd-courses/bread-igc-virtual-phd-level-course-political-economy-2026) (2026)<br>
+    [Research talk and workshop with Harini Nagendra at UCL STEaPP](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwrXGAGzNbhpGqdoMSpWvq1xUNlQ1TkhRRTFEOTBaVkNXRUEwWFNVSVVFWi4u) (2026)<br>
+    [ISHET 2026: Third Annual Conference of the Indian Society for the History of Economic Thought](https://ishet.in/ishet-2026-2/) (2026)</p>
+
   </div>
 
 </section>
-[Uncontrolled tourism leads to the loss of intellectual property.](research/uncontrolled-tourism/) (2026) I am grateful to [Ankur Jamwal](https://ankurjamwal.github.io/) for his extensive help with this work.<br>
-[What India’s Labour Codes (2019–2020) Mean for the Worker.](research/labour-codes/) (2026)<br>
-[BREAD IGC virtual PhD level course on political economy](https://www.theigc.org/events/bread-igc-virtual-phd-courses/bread-igc-virtual-phd-level-course-political-economy-2026) (2026)<br>
-[Research talk and workshop with Harini Nagendra at UCL STEaPP](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwrXGAGzNbhpGqdoMSpWqu1xUNlQ1TkhRRTFEOTBaVkNXRUEwWFNVSVVFWi4u) (2026)<br>
-[ISHET 2026: Third Annual Conference of the Indian Society for the History of Economic Thought](https://ishet.in/ishet-2026-2/) (2026)
