@@ -5,9 +5,6 @@ title: Resources
 
 ### Resources
 
-<img src="{{ '/resources/bookstall.png' | relative_url }}" alt="Bookstall" style="max-width: 700px;">
-
-
 #### BREAD-IGC Virtual PhD Courses
 
 The BREAD Course Committee organizes an online PhD course annually. The IGC website provides information on current and past courses, including recorded lectures and course materials.
